@@ -1,0 +1,7 @@
+﻿Titulo:Ab.
+Nombre:Victor Hugo Macas Pizarro
+Notaria:DÉcima Tercera
+Cantón:DurÁn
+Provincia:Guayas
+Genero1:Notario
+Genero2:Cuarto
